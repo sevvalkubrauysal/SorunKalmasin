@@ -1,0 +1,7 @@
+{
+  "name": "SorunKalmasin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
